@@ -1,0 +1,375 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Five speeches in the High and Honourable Court of Parliament by Sir Benjamin Rudyerd ... ; printed according to his owne true copies, the former being absurdly false.</title>
+            <title>Speeches. Selections</title>
+            <author>Rudyerd, Benjamin, Sir, 1572-1658.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 39 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A57825</idno>
+            <idno type="STC">Wing R2184</idno>
+            <idno type="STC">ESTC R12031</idno>
+            <idno type="EEBO-CITATION">13127062</idno>
+            <idno type="OCLC">ocm 13127062</idno>
+            <idno type="VID">97835</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A57825)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 97835)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 750:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Five speeches in the High and Honourable Court of Parliament by Sir Benjamin Rudyerd ... ; printed according to his owne true copies, the former being absurdly false.</title>
+                  <title>Speeches. Selections</title>
+                  <author>Rudyerd, Benjamin, Sir, 1572-1658.</author>
+               </titleStmt>
+               <extent>[2], 29 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by H. Dudley for Henry Seile ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Marginal notes.</note>
+                  <note>Reproduction of original in Duke University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Charles I, 1625-1649.</term>
+               <term>Great Britain --  Church history.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-05</date>
+            <label>Holly Beeman</label>Sampled and proofread</change>
+         <change>
+            <date>2011-05</date>
+            <label>Holly Beeman</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:97835:1"/>
+            <pb facs="tcp:97835:1" rendition="simple:additions"/>
+            <p>FIVE SPEECHES IN THE HIGH AND HONOVRABLE Court of PARLIAMENT.</p>
+            <p>BY Sir Beniamin Rudyerd, Knight, Surveighour of his Maieſties Court of Wards and Liveries.</p>
+            <p>Printed according to his owne true Copies, the former being abſurdly falſe.</p>
+            <p>Now publiſhed with Licence.</p>
+            <p>LONDON, Printed by <hi>H. Dudley,</hi> for <hi>Henry Seile,</hi> at the Tygers head in Fleetſtreet over againſt Saint <hi>Dunſtan's</hi>-Church. 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="speech">
+            <pb facs="tcp:97835:2"/>
+            <pb n="1" facs="tcp:97835:2" rendition="simple:additions"/>
+            <head>AN INTRODVCTION to the laſt Parliament 16. <hi>Caroli.</hi> 1640.</head>
+            <head type="sub">Concerning moderation and preſervation of Parliaments, by Sir <hi>Beniamin Rudyerd</hi> Knight, 16. <hi>Caroli.</hi> 1640.</head>
+            <opener>
+               <salute>Maſter Speaker,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">B</seg>Y Gods bleſſing, and the Kings ſavour, a great door and effectuall is opened un<g ref="char:EOLhyphen"/>to us of doing a great deal of good, if we do not ſhut in againſt our ſelves. That we are here together in this Houſe, is an evident demonſtration that the Kings heart ſtands right towards us; for which we do owe him a thankfull, a dutifull, a bountifull retribution.</p>
+            <p>Parliaments of later times have been diſ<g ref="char:EOLhyphen"/>aſtrous and unfortunate, inſomuch as the very Name of a <hi>Parliament</hi> hath been a reproach, a by word, a hiſſing. It now lyes in our hands, by Gods aſſiſtance, and it ought to be our chiefe indeavour, to reſtore Parliaments to their won<g ref="char:EOLhyphen"/>ted luſter.</p>
+            <pb n="2" facs="tcp:97835:3"/>
+            <p>There are ſome here in this Houſe who were preſent, and many who do <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> remember when the firſt Parliament was broken that ever was broken in England: we know from what <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> it <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, and of the moſt part, the ſame <hi>Genius</hi> hath prevailed ever ſince, full of ſubtil<g ref="char:EOLhyphen"/>ty, full of malignity. But now they have taken upon them ſuch a boldneſſe, ſuch an arrogance, as they ſtand in competition with us, who are the better ſubiects. And ſome beleeve they have carried it: their emulation I ſhall like, and do hope, but their preſumption is not to be born; for certainly the beſt religion makes the beſt ſubiects, I wiſh them no harm, for I wiſh their converſion, and <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> harſh way to it. Let us ſet up more and better Light to lighten their darkneſſe burning ſhining Lights, not luke warm, glow-worm Lights; that the peo<g ref="char:EOLhyphen"/>ple in all places of the kingdom may be dili<g ref="char:EOLhyphen"/>gently taught, carefully inſtructed, in ſound<g ref="char:EOLhyphen"/>neſſe of doctrine, by good example <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> their Pa<g ref="char:EOLhyphen"/>ſtors; taught and inſtructed to hear prayers, how to uſe prayers; for whoſoever <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> made the quarrell between praying and preaching, never meant well to religion, being both ſo ne<g ref="char:EOLhyphen"/>ceſſary duties not defranding one another: But I know not how it come about, that in out religion onely a man may I be too religious. The beſt way to ſuppreſſe all other religions, is to up hold our own to the height Light diſ<g ref="char:EOLhyphen"/>pells darknes without noiſe or busſle. But I ne<g ref="char:EOLhyphen"/>ver
+<pb n="3" facs="tcp:97835:3"/>yet know any man beaten him an opinion: I have known many frighted into diſſimulation. A almoſity and faintneſſe becomes no Religi<g ref="char:EOLhyphen"/>on. Although <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> we have bad <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, that by their <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nning working or diſtem<g ref="char:EOLhyphen"/>pers in this Houſe and by their <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> wor<g ref="char:EOLhyphen"/>king upon theſe diſtempers out or the Houſe, they have contributed as much to the breaking of Parliaments as any thing <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> whatſoever, yet bamlperſwade to they will not be ſo active in this, becauſe of their common Intereſt with us, as Sulli<gap reason="illegible" resp="#UOM" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> as Engliſhmen, there being now; ſuch a general neceſſity, of having a whole, a happy <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Howſoever, it will be wiſ<g ref="char:EOLhyphen"/>dom in us, to be ware of Inſuſions, to keep ſtea<g ref="char:EOLhyphen"/>dy to our temper.</p>
+            <p>The maine cauſe of the infelicity and de<g ref="char:EOLhyphen"/>ſtraction of theſe times hath been, the frequent breaking of Parliaments, beleeve <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Maſter <hi>Speaker,</hi> the ſplinters of a broken Parliament, do make the moſt dangerous wounds in the bo<g ref="char:EOLhyphen"/>dy Politique, which having ſo long feſterd, muſt be puld out with skilfull gentle hand, elſe they may rather vex, then cure the wounds they have made. But we need not deſpaire of a cure. For, in the fourteenth yeare of <hi>Edward</hi> the third. That King had great ſummes of mo<g ref="char:EOLhyphen"/>ney granted him in Parliament by way of Subſidie, for an expedition into France the went over entred into a way but the ill mana<g ref="char:EOLhyphen"/>ging of his treaſure at home by his Officers, and
+<pb n="4" facs="tcp:97835:4"/>the withdrawing of ſome payments is by the people for not performance of conditions, en<g ref="char:EOLhyphen"/>forced him to accept of a truce, when he was in the full hope of gayning a great victory; this could not but work ſtrongly upon that great<g ref="char:EOLhyphen"/>hearted Prince; He returned; Preſently in the fifteenth yeer he ſummon'd a Parliament, wher<g ref="char:EOLhyphen"/>in were nothing but iealouſies, conteſtations, &amp; diſtempers; ſo that the Parliament, ended with<g ref="char:EOLhyphen"/>out fruit. In the 17<hi rend="sup">th</hi>. yeer he called another Parliament, for no other end, but only to make an atonement between him &amp; his people, which intention wrought the ſucceſſe: for, by the pru<g ref="char:EOLhyphen"/>dence, and patience of the king. by the wiſdom and humbleneſſe of both Houſes, all breaches were cloſ'd up, and ſuch a perfect union made, as there never fell out any difference betweene him and his people during the whole time of his long life after. Why may not wee be as wiſe round? I preſume we ſhall. A Parliament is the bed of reconcilation between a King and his people, mutually beſt for both: ſo that it will be proper and fit for us, to lay aſide all acerbity, and exaſperation, To demeane our ſelves with calm<g ref="char:EOLhyphen"/>neſſe, ſweetneſſe, dutyfullneſſe,</p>
+            <p>Although the Prerogative have gone very high, yet if we can but bring our ſelves to an equanimity, to an indifferency of iudgement, we ſhall finde that all kings do as naturally love power, as all people do affect liberty: Then is it no more marvaile that Princes do hearken
+<pb n="5" facs="tcp:97835:4"/>to them who ſeek to improve their power, then that Parliaments have too much yeilded to ſome who have preſſed to cut end their liber<g ref="char:EOLhyphen"/>ty; whereas indeed, both Prerogative and liber<g ref="char:EOLhyphen"/>ty are beſt preſerved, when they are executed within their bounds.</p>
+            <p>The Law ſaith, That a King of England can do no wrong. As for inſtruments, If the matters do ſtart and expoſe the men, if the things they have miſdone be condemned and reformed, the men, without my more a do, will quickly be de<g ref="char:EOLhyphen"/>ſpiſed, grow as uſe leſſe as they are worthles, wi<g ref="char:EOLhyphen"/>ther and wear away to the <hi>nothing</hi> they deſerve. It is true that in ſome times, examples are more neceſſary then Lawes, eſpecially when Lawes grow infirme for want of exerciſe, becauſe ex<g ref="char:EOLhyphen"/>amples make a deeper impreſſion, ſtrike a grea<g ref="char:EOLhyphen"/>ter terror: But at this time, we ſhould very un<g ref="char:EOLhyphen"/>hand ſomly celebrate the Redintegration, and union we deſire and expect, with unſutable ſe<g ref="char:EOLhyphen"/>verity, and extremities.</p>
+            <p>The levying of money to releeve the Kings neceſſities, hath alſo bred a great diſturbance, &amp; it will do ſo: for the pe<gap reason="illegible" resp="#UOM" extent="2+ letters">
+                  <desc>••…</desc>
+               </gap>ry and ſcarcity of the Crown will keep a perpetuall inter feering be<g ref="char:EOLhyphen"/>tween the King and his people untill it be ſup<g ref="char:EOLhyphen"/>plied. The power of a King, and the power of neceſſity ioyned both in one hand, Maſter <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, will not long be diſappointed. But I doe hope before this Parliament be finally con<g ref="char:EOLhyphen"/>cluded, we ſhall eſtabliſh ſuch a conſtant Reve<g ref="char:EOLhyphen"/>nue
+<pb n="6" facs="tcp:97835:5"/>to his Maieſtie, as ſhall enable him to live plentifully <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> at home, for a high formida<g ref="char:EOLhyphen"/>ble <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> upon him <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and that with<g ref="char:EOLhyphen"/>out <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>king any thing away from him, but ſuch things only as wil fall away of them ſelves. This, nothing but Parliaments can do. As for <hi>ſubſiſt,</hi> I could never <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> narrow, pro<g ref="char:EOLhyphen"/>tecting <hi>word</hi> applyed to the King without ſcorne and indignation.</p>
+            <p>Let us ſet out thoughts and deſires but ſix <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> back, when we had noe hope of any Parliament at all <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, what then we would have given, what we would have done then to have had a Parliament; And we can<g ref="char:EOLhyphen"/>not <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> well now; It doth not well <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> with the wiſdom and ſettledneſſe of this Aſ<g ref="char:EOLhyphen"/>ſembly. to value <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> a Parliament we had not, then the Parliament we have; to think bet<g ref="char:EOLhyphen"/>ter of an imaginaty Parliament, then of a reall one.</p>
+            <p>I have obſerved, that whilſt Parliaments are ſitting, they <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> ſo high, ſo ſharp, as if Parliaments ſhould ſit alwaies, which in<g ref="char:EOLhyphen"/>deed doth <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>: And when Parliaments are <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> who <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> if Parlia<g ref="char:EOLhyphen"/>ment <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> never ſit again; <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> a Parliament <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> into this Houſe <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> us <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the pieces together, <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> out right, and our ſelves with it.</p>
+            <gap reason="illegible: missing" extent="1 span">
+               <desc>〈…〉</desc>
+            </gap>
+            <pb n="7" facs="tcp:97835:5"/>
+            <p>Mr. <hi>Speaker,</hi> It is ſo far from being ſtrange, as it can hardly be otherwiſe, but that in ſo long a vacation between Parliaments, many diſor<g ref="char:EOLhyphen"/>ders muſt needes grow in upon us, as Deviati<g ref="char:EOLhyphen"/>on in Religion, violation of Lawes, invaſion up<g ref="char:EOLhyphen"/>on libertyes: But the worke and labour, is how to teduce them, how to ſet them right againe: The manner of doing it ought to be the princi<g ref="char:EOLhyphen"/>pall in our conſideration, for the matters carry in them, ſtirring, vehement, tempting provoca<g ref="char:EOLhyphen"/>tions. For that very reaſon, Maſter <hi>Speaker,</hi> it behoves us to be the more wary, the more com<g ref="char:EOLhyphen"/>poſ'd, leſt we be tranſported beyond the attain<g ref="char:EOLhyphen"/>ing our ends. I confeſſe I do now feele my ſelfe in a ſtraight. Shall we onely looke forward as they call it, Altogether omit and neglect God in his Religion, the King in his Honour, the Common-wealth in his gaſping extremity? That ſtands notwith the integrity of this houſe, with the <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> our country. Shall we encounter theſe enormities with the ful force of a Parliamentary ſtrictnes, rigor, and exact<g ref="char:EOLhyphen"/>neſſe? In doing thus, we may turn the medcine into a worſe diſeaſe, and ſo undoe all, even root out the whole race of Parliaments for ever, Men and brethren what ſhall we doe, Truly Maſter <hi>Speaker,</hi> If I ſhould ſpeake for my life, as I doe for more, I ſhould moſt humbly beſeech this Houſe, That we may all of us ſtrive to make this a breeding, teeming Parliament, that it may be the mother of many moe, and not caſt our ſelves
+<pb n="8" facs="tcp:97835:6"/>upon the hazard of deſperate, diſmall events. As long as we have Parliaments, we ſhall know where to finde our ſelves; when they are gone, we are loſt.</p>
+         </div>
+         <div type="speech">
+            <head>AN INTRODVCTION To the PARLIAMENT, <hi>Novemb.</hi> 7. 1640.</head>
+            <opener>
+               <salute>Maſter Speaker.</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>E are here aſſembled to do Gods buſines &amp; the Kings, in which our own is included, as we are Chri<g ref="char:EOLhyphen"/>ſtians as we are Subjects, Let us <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> God, thee ſhall we hon<g ref="char:EOLhyphen"/>our the King the more for I am afraid we have been the leſſe proſpectus in Parliaments be cauſe we have preferr'd other <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> him. Let Religion be <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> for all things elſe are <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> yet we may have them too, <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>; if we give God his prece<g ref="char:EOLhyphen"/>dence.</p>
+            <p>We all know, what diſturbance hath beene brought upon the <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, for vain, petty trifles; How the whole Church, The whole kingdome hath been troubled where to place a Metaphor,
+<pb n="9" facs="tcp:97835:6"/>an Altar. We have ſeen Miniſters, their wives, children, and families undone againſt law; a<g ref="char:EOLhyphen"/>gainſt conſcience, againſt all bowells of compaſ<g ref="char:EOLhyphen"/>ſion, about not dancing upon Sundayes. What do this ſort of men thinke will be come of them<g ref="char:EOLhyphen"/>ſelves, when the maſter of the houſe ſhall come, and finde them thus Beating their fellow-ſer<g ref="char:EOLhyphen"/>vants? Theſe inventions were but Sives made of purpoſe to winnow the beſt men; and that's the devils occupation. They have a minde to worry Preaching: for I never yet heard of any but di<g ref="char:EOLhyphen"/>ligent preachers, that were vex'd with theſe, and the like devices. They deſpiſe prophecy, and as one ſaid, they would faine be at ſomething that were like the Maſſe, that will not bite; a muzzeld Religion. They would evaporate and diſ-ſpirit the power and vigour of Religion, by drawing it out into ſolemne, ſpecious Formali<g ref="char:EOLhyphen"/>tyes, into obſolete, antiquated ceremonies new furbiſhed up. And this (belike) is the good worke in hand with Docter <hi>Heylin</hi> hath ſo often celebrated in his bold Pamphlets. All their acts and actions are ſo full of mixtures, involutions, and complications, as nothing is cleare, nothing ſincere, in any of their proceedings: let the in not ſay, that theſe are the perverſe ſuſpicious, malitious interpretations, or ſome few factions ſpirits amongſt us; when a Romaniſt hath bragg'd, and congratulated in print, that the face of our church begins to alter, the language of our religion to change. And <hi>Sancta Clara</hi>
+               <pb n="10" facs="tcp:97835:7"/>hath publiſhed, That if a Synod were held, <hi>Non intermixtis Puritanis,</hi> ſetting Puritans aſide, our Articles &amp; their Religion would ſoon be agreed. They have ſo brought it to paſſe, that under the name of Puritans all our Religion is branded, &amp; under a few hard words againſt Ieſuits, all Pope<g ref="char:EOLhyphen"/>ry is countenanced. Whoſoever ſquares his acti<g ref="char:EOLhyphen"/>ons by any rule, either divine or humane, he is a Puritan. Whoſoever would be govern'd by the King's Lawes, he is a Puritan; he that will not doe whatſoever other men would have him do, he is a Puritan. Their great worke, their maſter piece now is, to make thoſe of the Religion, to be the ſuſpected party of the kingdome.</p>
+            <p>Let us farther reflect upon the ill effects theſe courſes have wrought; what by a defection from us on the one ſide, &amp; a ſeparation on the other: Some, imagining whither we are tending, made haſte to turne, or declare themſelves Papiſts be<g ref="char:EOLhyphen"/>forehand, thereby hoping to render themſelves the more gracious, the more acceptable. A great multitude of the King's Subiects, ſtriving to hold communion with us, but ſeeing how farre we were gone, and fearing how much further we would goe, were forc'd to flee the land, ſome into other inhabited countreys, very many into ſavage wilderneſſes, becauſe the land would not bear them. Doe not they that cauſe theſe things caſt a reproach upon the government?</p>
+            <p>Maſter <hi>Speaker,</hi> let it be our principall care that theſe wayes neither continue, nor returne upon
+<pb n="11" facs="tcp:97835:7"/>us. If we ſecure our religion, we ſhall cut off, and defeat many plots that are now on foot by them &amp; by others. Beleeve it Sirs Religion hath bin for a long time, and ſtill is, the great deſigne upon this Kingdome. It is a knowne, and a practiſ'd principle, that they who would introduce ano<g ref="char:EOLhyphen"/>ther Religion into the church, muſt firſt trouble, and diſorder the government of the ſtate, that ſo they may hide, and worke their ends in a confu<g ref="char:EOLhyphen"/>ſion; which now lyes at the doore.</p>
+            <p>I come next, Maſter <hi>Speaker,</hi> to the King; buſineſſe, more particularly, which indeed is the kingdomes: for one hath no exiſtence, no being, without the other, their relation is ſo neere. Yet ſome have ſubtilly, and ſtrongly, laboured a divorce; which hath been the very bane both of King and kingdome.</p>
+            <p>When foundations are ſhaken, it is high time to look to the building. He hath no heart, no head, no ſoule, that is not moved in his whole man, to look upon the diſtreſſes, the mi<g ref="char:EOLhyphen"/>ſeries of the Common-wealth; that is not for<g ref="char:EOLhyphen"/>ward in all that he is, and hath, to redreſſe them in a right way.</p>
+            <p>The King likewiſe is reduced to great ſtreights, wherein it were undurifulneſſe, be<g ref="char:EOLhyphen"/>yond inhumanity, to take advantage of him: let us rather make it an advantage for him; to do him beſt ſervice when he hath moſt need; not to ſeek our owne good, but in him, and with him Elſe we ſhall commit the ſame crimes our
+<pb n="12" facs="tcp:97835:8"/>ſelves, which we muſt condemn in others.</p>
+            <p>His Majeſtie hath clearly and freely put him<g ref="char:EOLhyphen"/>ſelfe into the hands of this Parliament, and I preſume, there is not a man in this Houſe, but feels himſelfe advanc'd in this high Truſt. But if he proſper no better in our hands, then he hath done in theirs, who have hitherto had the handling of his affaires, we ſhall for ever make our ſelves unworthy of ſo gracious a confi<g ref="char:EOLhyphen"/>dence. I have often thought and ſaid, That i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> muſt be ſome great extremity that would recover and rectifie this ſtate: And when that extremity did come, it would be a great hazard, whether it might prove a reme<g ref="char:EOLhyphen"/>dy, or a ruine. We are now, Maſter <hi>Speaker,</hi> up<g ref="char:EOLhyphen"/>on that verticall turning point; and therefore it is no time to pall<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ate, to foment, our owne undoing.</p>
+            <p>Let us ſet upon the Remedy, We muſt firſt know the diſeaſe. But to diſcover the diſeaſes of the ſtate, is (according to ſome) to traduce the government: yet others are of opinion, that this is the halfe way to the cure.</p>
+            <p>His Majeſtie is wiſer then they that have ad<g ref="char:EOLhyphen"/>viſed him, and therefore he cannot but ſee, and feele, their ſubverting, deſtructive counſells, which ſpeak lowder, then I can ſpeak of them; for they ring a dolefull, deadly knell over the whole kingdome. His Majeſtie beſt knowes who they are. For us, let the matters bolt out the men, their actions diſcover them.</p>
+            <pb n="13" facs="tcp:97835:8"/>
+            <p>They are men that talk largely of the Kings ſervice, have done none but their own, and that's too evident.</p>
+            <p>They ſpeak highly of the Kings power, but they have made it a miſerable power, that pro<g ref="char:EOLhyphen"/>duceth nothing but weakneſſe; both to the King and kingdom.</p>
+            <p>They have exhauſted the King's revenue to the bottome, nay thorow the bottome, and be<g ref="char:EOLhyphen"/>yond.</p>
+            <p>They have ſpent vaſt ſumm<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> of money, waſtfully, fruitleſly, dangerouſly; ſo that more money, without other counſells, will be but a ſwift undoing.</p>
+            <p>They have alwayes, peremptorily purſued one obſtinate pernitious courſe. Firſt, they bring things to an extremity; Then, they make that extremity of their own, making the reaſon of their next action, ſeaven times worſe then the former; and there we are at this inſtant.</p>
+            <p>They have almoſt <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>poil'd the beſt inſtituted government in the world, for Soveraignety in a King, liberty to the Subject, the proportionable temper of both which, makes the happieſt State for power, for Riches, for duration.</p>
+            <p>They have unmanerly and ſlubburringly caſt all their proiects all their machinations upon the King; which no wiſe or good miniſters of State ever did but would ſtill take all harſh, diſ<g ref="char:EOLhyphen"/>raſtfull things upon themſelves, to eleare, to ſweeten their Maſter.</p>
+            <pb n="14" facs="tcp:97835:9"/>
+            <p>They have not ſuffered his Majeſtie to appear unto his people in his owne native goodneſſe, they have ecelipſt him by their interpoſition: although groſſe condenſe bodyes may obſcure and hinder the Sun from ſhining out, yet is he ſtill the ſame in his own ſplendour; and when they are removed, all creatures under him, are directed by his light, comforted by his beams. But they have framed a Supercilious-ſeeming Maxime of State for their own turne; that if a King will ſuffer men to bee torne from him, he ſhall never have any good ſervice done him: when the plaine truth is, that this is the ſureſt way to preſerve a King from having ill ſervants about him. And the divine trueth likewiſe is; <hi>Take away the wicked from the King, and his throne ſhall be eſtabliſhed.</hi>
+            </p>
+            <p>Maſter <hi>Speaker.</hi> Now we ſee what the ſores are in generall, and when more particulers ſhall appeare, lot us be very carefull, to draw out the cores of them, not to skin them over, with a ſlight, ſuppurating, feſtring cure, leſt they pre<g ref="char:EOLhyphen"/>ſently breake out againe into greater miſchiefs. Conſider of it, couſult, and ſpeake your mindes.</p>
+            <p>It <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>th heretofore been boaſted, that the King ſhould never call a Parliament, till he had no need of his people. Theſe were words of diviſion, and malignity. The King muſt alwayes, according to his occaſions, have uſe of his peo<g ref="char:EOLhyphen"/>ples hearts, hands, purſes, The people will al<g ref="char:EOLhyphen"/>wayes
+<pb n="15" facs="tcp:97835:9"/>have need of the King's clemency, juſtice, protection, and this reciptocation, is the ſtrong<g ref="char:EOLhyphen"/>eſt, the ſweeteſt union.</p>
+            <p>It hath been ſaid too of late, that a Parliament will take away more from the King, then they will give him. It may well be ſaid, that thoſe things which will fall away or themſelves, will enable the Subject to give him more than can betaken any way elſe. Proiects and Monopolies are but leaking Conduit pipes, the Exchequer it ſelfe at fulleſt, is but a ciſterne, and now a bro<g ref="char:EOLhyphen"/>ken one: frequent Parliaments onely are the fountaine; and I doe not doubt, but in this Parliament, as we ſhall be free in our adviſes, ſo ſhall we be the more free of our Purſes, that his Maieſtie may experimentally finde, the reall difference of better councells, the true, ſolid grounds, of rayſing and eſtabliſhing his Great<g ref="char:EOLhyphen"/>neſſe, never to be brought againe (by God's bleſſing) to ſuch dangerous, ſuch deſperate per<g ref="char:EOLhyphen"/>plexities.</p>
+            <p>Maſter <hi>Speaker,</hi> I confeſſe I have now gone in a way much againſt my Nature, and ſomewhat againſt my cuſtome beretofore in this place. But the deplorable, diſmall condition, both of the Church &amp; State, have ſo far wrought upon my iudgement, as it hath convinc'd my diſpoſition. Yet am I not <hi>Vir Sanguinum.</hi> I love no mans ruine, I thank God, I neither hate any mans Per<g ref="char:EOLhyphen"/>ſon, nor envy any mans fortune: onely I am zealous of a thorow reformation, in a time that
+<pb n="16" facs="tcp:97835:10"/>exacts, that extorts it; which I humbly beſeech this Houſe may be done, with as much lenity, as much moderation, as the publique ſafety of the King and kingdom can poſſibly admit.</p>
+         </div>
+         <div type="speech">
+            <head>Concerning Money to the SCOTS.</head>
+            <opener>
+               <salute>Maſter Speaker,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>T will become us thankfully to acknowledge, the prudent and painfull endeavours of my Lords the Peeres Comiſſioners, in treating with the Scots, in mediating with the king: whereby (God aſſiſt<g ref="char:EOLhyphen"/>ing) we are how probably drawing neare to a bleſſed peace.</p>
+            <p>His Maieſtie in his wiſdome and goodneſſe, is graciouſly pleaſed to give his Royall Aſſent to their Acts of Parliament, where in the articles of their aſſembly are like wife included. Inſomuch as their Religion, their Lawes, their liberties, are ratified and eſtabliſhed. Beſides, their grie<g ref="char:EOLhyphen"/>vances rehev'd and redreſſ'd; for which we uſe to give the King money, and are ſtill ready to do it. This, although it be a large, yet it is not re<g ref="char:EOLhyphen"/>ceived as a full ſatisfaction.</p>
+            <pb n="17" facs="tcp:97835:10"/>
+            <p>Before they came into England, they pub<g ref="char:EOLhyphen"/>liſh'd in a Remonſtrance, that they would take nothing of the Engliſh, but what they would pay for, or give ſecurity: we have deſray'd them hitherto, and are provided to do it longer.</p>
+            <p>They did well remember, that we aſſiſted them in the time of their Reformation; and it is not to be forgoten, that we did bear our own charges.</p>
+            <p>Concerning mutuall reſtitution of Ships, and goods, my Lords the Comiſſioners have very fairly and diſcreetly accomodated that parricu<g ref="char:EOLhyphen"/>lar already.</p>
+            <p>As for inferenciall, conſequenciall damma<g ref="char:EOLhyphen"/>ges, ſuch a repreſentation would but miniſter unacceptable matter of difference and conteſta<g ref="char:EOLhyphen"/>tion; which amongſt friends ought to be wari<g ref="char:EOLhyphen"/>ly and wiſely avoyded.</p>
+            <p>We could alleadge, and truly too, that Nor<g ref="char:EOLhyphen"/>thumberland, Newcaſtle, and the Biſhoprick, will not recover their former ſtate theſe twenty yeares. We have heard it ſpoken in this Houſe, by an underſtanding knowing member in the particular, that the Coal-mmes of New caſtle will not be ſet right againe for a hundred thou<g ref="char:EOLhyphen"/>ſand pound, beſides the over price of coales, which all the while it hath and will coſt this ci<g ref="char:EOLhyphen"/>ty, and other parts of the kingdome. A great deale more of this nature might be rehearſed: but I delight not to preſſe ſuch tenter-ſtretch'd arguments. Let us on both ſides rather thank
+<pb n="18" facs="tcp:97835:11"/>God by proceeding in the way he hath laid be<g ref="char:EOLhyphen"/>fore us, and not wry his way to ours: time and his bleſſing will repair all our implicit damages, with many proſperous explicit advantages.</p>
+            <p>They ſay, that they do not make any formall demand, but they do make a ſum to appeare of five hundred and fourteen thouſand pounds, more then ever we gave the king at once. A portentous apparition! which ſhews it ſelfe in a very dry time, when the Kings revenue is totally exhauſted, his debts exceſſively multi<g ref="char:EOLhyphen"/>plied, this kingdom generally impoveriſh'd by grievous burdens, and diſordered courts. All this ſupply is to be drawne out of us only, with<g ref="char:EOLhyphen"/>out the leaſt help from any of his Maieſties o<g ref="char:EOLhyphen"/>ther dominions; which to my ſeeming, will be an utter drayning of the people, unleſſe Eng<g ref="char:EOLhyphen"/>land be <hi>Ruteus in-exhauſtus,</hi> as the Popes were wont to call it.</p>
+            <p>Notwithſtanding, Sir, now that I have in part opened the ſtate we are in, though nothing ſo exactly as they have done theirs, I ſhall moſt willingly and heartily affoord the Scots, what<g ref="char:EOLhyphen"/>ſoever is iuſt, equitable, and honourable, even to a convenient, conſiderable, round ſum of money, towards their loſſes and expences, that we may go off with a friendly and a handſome loſſe. If they reiect it, we ſhall improve our cauſe.</p>
+            <p>It was never yet thought, Maſter <hi>Speaker,</hi> any great wiſdom, over much to truſt a ſucceſsfull
+<pb n="19" facs="tcp:97835:11"/>ſword. A man that walkes upon a ryſing ground, the further he goes, the larger is his proſpect. Succeſſe enlarges mens deſires, extends their ambition, it breedes thoughts in them they ne<g ref="char:EOLhyphen"/>ver thought before. This is naturall, and uſuall.</p>
+            <p>But the Scots being truly touch't with Religi<g ref="char:EOLhyphen"/>on according to their profeſſion, that only is able to make them keepe their word. For, Reli<g ref="char:EOLhyphen"/>gion is ſtronger, and wiſer, then reaſon, or rea<g ref="char:EOLhyphen"/>ſon of ſlate.</p>
+            <p>Beyond all this Maſter <hi>Speaker,</hi> the remarkable traces of Gods wonderfull providence in this ſtrange worke, are ſo many, ſo apparant, as I cannot but hope, almoſt to beleeve, that the ſame All governing mercifull <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> will conduct and leade us to a happy concluſion, will contract a cloſer, firmer union betweene the two nations then any meere humane policy could ever have effected, with ineſtimable benefits to both. In advancing the truth of religion, in exalting the greatneſſe of the King, in ſecuring the peace of his kingdomes, againſt all malitious, envious, ambitious oppoſites, to Religion, to the king, to his kingdomes; wherein, I preſume, all our deſires, and prayers do meete.</p>
+         </div>
+         <div type="speech">
+            <pb n="20" facs="tcp:97835:12"/>
+            <head>Concerning BISHOPS.</head>
+            <opener>
+               <salute>Maſter Speaker.</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> do verily beleeve, that there are many of the Clergy in our Church, who do thinke the ſimplicitie of the Goſpel too meane a vocation for them too ſerve in. They muſt have a ſpecious, pomp<g ref="char:EOLhyphen"/>ous, ſumptuous Religion, with additionalls of Temporall Greatneſſe, Authority. Negotiation; not withſtanding they know better then I, what Fathers Schoolmen, Counſells are againſt their mixing themſelves in ſecular affaires.</p>
+            <p>This Romane ambition, will at length bring in the Romane Religion, and at laſt a haughty inſolence even againſt ſupreme power it ſelfe, if it be not timely, and wiſely prevented.</p>
+            <p>They have amongſt them and Apothegm of their own making, which is, No Miter, no Scep<g ref="char:EOLhyphen"/>ter: when we know by deare experience, that if the Miter be once in danger, they care not to throw the ſcepter after, to confound the whole kingdome for their intereſt.</p>
+            <p>And hiſtories will tell us, that whenſoever
+<pb n="21" facs="tcp:97835:12"/>the Clergy went high, Monarchy ſtill went low: if they could not make the Monarch the Head of their own faction, they would be ſure to make him leſſe; witneſſe one example for all, the Popes working the Emperour out of <hi>Italy.</hi>
+            </p>
+            <p>Some of ours aſſoone as they are Biſhops, <hi>Adepto fine, ceſſat motus,</hi> they will preach no longer, their office then is to governe: but in my opinion they govern worſe then they preach though they preach not at all; for we ſee to what paſſe their government hath brought us.</p>
+            <p>In conformity to themſelves, they ſilence others alſo, though <hi>Hierome</hi> in one of his epiſtles ſaith, that even a Biſhop let him be of never, ſo blameleſſe a life, yet he doth more hurt by his ſilence, then he can do good by his example.</p>
+            <p>Maſter <hi>Speaker,</hi> It now behooves us ſo to re<g ref="char:EOLhyphen"/>ſtrayne the Biſhops to the duties of their functi<g ref="char:EOLhyphen"/>on, as they may never more hanker after hete<g ref="char:EOLhyphen"/>rogenious extravagant imploiments. Not be ſo abſolute, ſo ſingle and ſolitary in actions of mo<g ref="char:EOLhyphen"/>ment, as Excommunication, abſolution, ordina<g ref="char:EOLhyphen"/>tion, and the like: but to joyn ſome of the Mini<g ref="char:EOLhyphen"/>ſtery with them, &amp; further to regulate them ac<g ref="char:EOLhyphen"/>cording to the uſage of ancient Churches in the beſt times; that by a well temper'd govern<g ref="char:EOLhyphen"/>ment, they may not have power hereafter, to corrupt the church, to undoe the kingdome.</p>
+            <p>When they are thus circumſcrib'd, and the publique ſecur'd from their eruptions, then ſhall not I grudge them a liberall, plentifull ſub<g ref="char:EOLhyphen"/>ſiſtence;
+<pb n="22" facs="tcp:97835:13"/>elſe I am ſure they can never be given to hoſpitally.</p>
+            <p>Although the calling of the Clergy be all glo<g ref="char:EOLhyphen"/>rious within, yet if they have not a large, conſi<g ref="char:EOLhyphen"/>derable outward ſupport, they cannot be freed from vulgar contempt.</p>
+            <p>It will alwayes be fit, that the flouriſhing of the church ſhould hold proportion with the flouriſhing of the Common-wealth wherein it is. If we dwell in houſes of Cedar, why ſhould they dwell in skins. And I hope, I ſhall never ſee a good Biſhop left worſe then a Parſon, without a Gleabe.</p>
+            <p>Certainly Sir, the ſuperintendencie of emi<g ref="char:EOLhyphen"/>nent men, Biſhops over divers Churches, is the moſt primitive, the moſt ſpreading, the moſt laſting government of the Church. Where<g ref="char:EOLhyphen"/>fore, whileſt we are earneſt to take away Inno<g ref="char:EOLhyphen"/>vations, let us beware we bring not in the grea<g ref="char:EOLhyphen"/>teſt Innovation that over was in England.</p>
+            <p>I do very well know what very many do very ſervently deſire; But let us well bethink our ſelves, whether a popular, democraticall go<g ref="char:EOLhyphen"/>vernment of the Church (though fit for other places) will be either ſutable or acceptable to a Regall, Monarchicall government of the State.</p>
+            <p>Every man can ſay (it is ſo common and known a truch) that ſudden and great changes, both in naturall and politique bodies, have dan<g ref="char:EOLhyphen"/>gerous operations? and give me leave to ſay, that we cannot preſently ſee to the end of ſuch
+<pb n="23" facs="tcp:97835:13"/>a conſequence, eſpecially in ſo great a kingdom as this, and where Epiſcopacie is ſo wrap dane involv'd in the Laws of it.</p>
+            <p>Wherefore, Maſter <hi>Speaker,</hi> my humble mo<g ref="char:EOLhyphen"/>tion is, That we may puniſh the preſent offen<g ref="char:EOLhyphen"/>ders, reduce and preſerve the Calling for bet<g ref="char:EOLhyphen"/>ter men hereafter. Let us remember with freſh thankfulneſſe to God, thoſe glorious Martyr. Biſhops who were burn'd for our Religion in the times of Popery, who by their learning, zeal, and conſtancle, uphold and convay'd it down to us.</p>
+            <p>We have ſome good Biſhops ſtill, who do preach every Lords Day, and are therefore worthy of double honour. They have ſuffer'd enough already in the diſeaſe, I ſhall be forry we ſhould make them ſuffer more in the remedy.</p>
+         </div>
+         <div type="speech">
+            <pb n="24" facs="tcp:97835:14"/>
+            <head>Concerning BISHOPS, DEANES, AND CHAPTERS: At a Committee of the whole Houſe by Sir <hi>Beniamin Rudyerd.</hi>
+            </head>
+            <opener>
+               <salute>M. Hyde,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>E are now upon a very great buſi<g ref="char:EOLhyphen"/>neſſe, ſo great indeed, as it requires our ſoundeſt, our ſaddeſt conſi<g ref="char:EOLhyphen"/>deration, our beſt iudgement for the preſent, our utmoſt fore<g ref="char:EOLhyphen"/>ſight for the futuer.</p>
+            <p>But Sir, One thing doth exceedingly trouble me, it turnes me quite round, it makes my whole reaſon vertiginous, which is, that ſo many doe beleeve againſt the wiſdom of all ages, that now,
+<pb n="25" facs="tcp:97835:14"/>there can he no reformation without deſtructi<g ref="char:EOLhyphen"/>on, as if every ſick body muſt preſently be knock'd in the head as paſt hope of cure.</p>
+            <p>Religion was firſt and beſt planted in Cities. God did ſpread his net where moſt might be caught. Cities had Biſhops and Preſbiters. Preſ<g ref="char:EOLhyphen"/>biters were the Seminaries out of which were ſent labourers by the Biſhops to propagate and cultivate the Goſpell. The Clergy then liv'd wholly upon the free-will-offerings and bounty of the people.</p>
+            <p>Afterward, when Kings and States grew to be Chriſtians, the outward ſettlement of the church grew up with them. They erected Bi<g ref="char:EOLhyphen"/>ſhopricks, founded Cathedrall churches, en<g ref="char:EOLhyphen"/>dowed them with large poſſeſſions. Land lords built pariſh churches, gleabd them with ſome portion of land, for which they have ſtill a right of Preſentation.</p>
+            <p>I do confeſſe that ſome Biſhops have had am<g ref="char:EOLhyphen"/>bitious, dangerous aymes, and have ſo ſtill. That in their government there are very great Enor<g ref="char:EOLhyphen"/>mities.<note place="margin">"Regenerati<g ref="char:EOLhyphen"/>on doth nei<g ref="char:EOLhyphen"/>ther deſtroy the man nor the faculties, but doth recti<g ref="char:EOLhyphen"/>fie and re<g ref="char:EOLhyphen"/>forme them: ſo the calling of Biſhops may, &amp;c.</note> But I am not of their opinion, who be<g ref="char:EOLhyphen"/>leeve that there is an innate ill quallity in Epiſ<g ref="char:EOLhyphen"/>copacy, like a ſpecificall property, which is a re<g ref="char:EOLhyphen"/>fuge, not a reaſon. I hope there is no originall ſin in Epiſcopacie, and though there were, yet may the "Calling be aſwell reformed, as the perſon regenerated. Biſhops have govern'd the church
+<pb n="25" facs="tcp:97835:15"/>for fifteene hundred yeeres without interrup<g ref="char:EOLhyphen"/>tion and no man will ſay, But that God hath ſaved ſoules in all thoſe times under their go<g ref="char:EOLhyphen"/>vernment. Let them be reduced, according to the uſage of ancient Churches in the beſt times, ſo reſtrayned, as they may not be able hereafter to ſhame the calling. I love not thoſe that hate to be reformed, and doe therefore thinke them worthy of the more ſtrict, the more cloſe refor<g ref="char:EOLhyphen"/>mation.</p>
+            <p>We have often complaind that Biſhops are too abſolute, too ſingular. Although Cathedrall, churches are now for the moſt part but recep<g ref="char:EOLhyphen"/>tacles of Droanes and Non-reſidents, yet ſome good men may be found or placed there, to be Aſſeſſours with the Biſhops, to aſſiſt them in actions of moment, in cauſes of importance. There is maintenance already provided for them. If either in Biſhopricks or Cathedrall churches, there be too much, ſome may be pared off, to re<g ref="char:EOLhyphen"/>lieve them that have to little. If yet more may be ſpared, it may be employed to the ſetting up of a preaching miniſtery thorow the whole kingdome, and untill this be done, although we are Chriſtians, yet are we not a Chriſtian State. There are ſome places in England, that are not in Chriſtendome; the people are ſo ignorant, they live ſo without God in the world; for which, Parliaments are to anſwer both to God and
+<pb n="26" facs="tcp:97835:15"/>man: let us looke to it, for it lyes like one of the Burdens of the Prophet <hi>Eſay,</hi> heavy and flat up<g ref="char:EOLhyphen"/>on Parliaments.</p>
+            <p>I have oftentimes ſeriouſly conſidered with my ſelfe, what ſtrong concurrent motives and cauſes did meet together in that time, when Abbeyes and Monaſteryes were overthrown. Certainly Gods hand was the greateſt, for he was moſt offended. The prophane ſuperſtitions, the abhominable Idolatryes, the filthy ne<g ref="char:EOLhyphen"/>fandous wickedneſſe of their lifes, did ſtink in Gods noſtriles, did call downe for vengeance, for reformation. A good party of Religious men were zealous inſtruments in that great work. As likewiſe many covetous ambitious Perſons, ga<g ref="char:EOLhyphen"/>ping for fat morſells, did luſtily drive it on.</p>
+            <p>But Maſter <hi>Hyde,</hi> there was a principall Par<g ref="char:EOLhyphen"/>liamentary motive, which did facillitate the reſt. For it was propounded in Parliament, that the Acceſſion of Abbey lands would ſo in-rich the crowne, as the people ſhould never be put to pay Subſidies againe; this was plauſable both to court and country beſides with the overplus, there ſhould be mainteyned a ſtanding army of forty thouſand men, for a perpetuall defence of the kingdome; this was ſafety at home, terrour and honour abroad. The Parliament would make all ſure.</p>
+            <p>Gods part, Religion by his bleſſing hath been
+<pb n="28" facs="tcp:97835:16"/>reaſonably well preſerv'd: but it hath been ſaved an by fire, for the reſt is conſum'd and vaniſh'd. The people have paid Subſidies ever ſince; and we are now in no very good caſe to pay an Army.</p>
+            <p>Let us beware, Maſter <hi>Hyde,</hi> that we do not look with a worldly, carnall, evill eye upon church lands. Let us cleare our ſight, ſearch our hearts, that we may have unmixt and ſincere ends, without the leaſt thought of ſaving our own purſes. Church lands will ſtill be fitteſt to maintaine church men, by a proportionable and orderly diſtribution.</p>
+            <p>We are very ſtrict and curious to uphold our own propriety, and there is great reaſon for it: Are the Clergy only a ſort of men who have no propriety at all in that which is called theirs? I am ſure they are Engliſhmen, they are Subiects.</p>
+            <p>If we pull down Biſhopricks, and pull down Cathedrall churches, in a ſhort time we muſt be forc'd to pull downe Colledges too: for ſchol<g ref="char:EOLhyphen"/>lers will live and die there as in cells, if there be no conſiderable preferment to invite them a<g ref="char:EOLhyphen"/>broad, and the example we are making now, will be an eaſie temptation to the leſſe preſſing neceſſities of future times.</p>
+            <p>This is the next way to bring in Barbariſine, to make the Clergy an unlearnd contemptible
+<pb n="29" facs="tcp:97835:16"/>vocation, not to be deſir'd but by the baſeſt of the people; and then, where ſhall we finde men able to convince an adverſary?</p>
+            <p>A Clergy man ought to have a farre greater proportion to live upon then any other man of an equall condition. He is not bred to multiply Three-pences, it becomes him not to live me<g ref="char:EOLhyphen"/>chanically and ſordidly. He muſt be given to hoſpitality. I do know my ſelfe a Clergy man, nodignitary, whoſe books have coſt him a thouſand pounds, which when he dyes may be worth to his wife and children, about ſome two hundred.</p>
+            <p>It will be a ſhamefull reproach to ſo flouriſh<g ref="char:EOLhyphen"/>ing a kingdom as this, to have a poore beggerly Clergy. For my part, I think nothing too much, nothing too good for a good miniſter, a good Clergy man. They ought leaſt to want, who beſt know how to abound. Burning and ſhining lights, do well deſerve to bee ſet in good candle<g ref="char:EOLhyphen"/>ſticks.</p>
+            <p>Maſter <hi>Hyde,</hi> I am as much for reformation, for purging and maintaining Religion, as any man whatſoever: But I profeſſe, I am not for Innovation, Demolition, nor Abolition.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
